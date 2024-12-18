@@ -1,0 +1,1 @@
+aggiungere global context per workout state, create delete e modify
