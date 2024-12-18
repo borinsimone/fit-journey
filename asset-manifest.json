@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/fit-journey/static/css/main.a9f9832a.css",
+    "main.js": "/fit-journey/static/js/main.7b9a5bff.js",
+    "static/media/bg.png": "/fit-journey/static/media/bg.270eac1afde647b7b9bd.png",
+    "static/media/logo.png": "/fit-journey/static/media/logo.86468d066e1291af2f43.png",
+    "index.html": "/fit-journey/index.html",
+    "main.a9f9832a.css.map": "/fit-journey/static/css/main.a9f9832a.css.map",
+    "main.7b9a5bff.js.map": "/fit-journey/static/js/main.7b9a5bff.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a9f9832a.css",
+    "static/js/main.7b9a5bff.js"
+  ]
+}
